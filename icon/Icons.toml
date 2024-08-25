@@ -1,0 +1,47 @@
+music.alto = "AltoIcon.png"
+games.steam = "Steam.png" # Credit to https://old.reddit.com/r/MacOS/comments/i6ftvh/a_blue_steam_icon_for_those_of_you_who_prefer/ for Steam icon
+
+[panel.video]
+pause.normal = "tex_cp_pause.png"
+play.normal = "tex_cp_play.png"
+stop.normal = "tex_cp_stop.png"
+
+next.normal = "tex_cp_next.png"
+prev.normal = "tex_cp_prev.png"
+
+slow_b.normal = "tex_cp_slow_b.png"
+slow_f.normal = "tex_cp_slow_f.png"
+
+fast_b.normal = "tex_cp_fastb.png"
+fast_f.normal = "tex_cp_fastf.png"
+
+step_b.normal = "tex_cp_step_b.png"
+step_f.normal = "tex_cp_step.png"
+
+jump_b.normal = "tex_cp_flash_b.png"
+jump_f.normal = "tex_cp_flash_f.png"
+
+av_settings.normal = "tex_cp_av_settings.png"
+av_settings.focus = "tex_cp_av_settings_focus.png"
+cc.normal = "tex_cp_cc.png"
+cc.focus = "tex_cp_cc_focus.png"
+changetime.normal = "tex_cp_changetime.png"
+changetime.focus = "tex_cp_changetime_focus.png"
+delete.normal = "tex_cp_delete.png"
+delete.focus = "tex_cp_delete_focus.png"
+display.normal = "tex_cp_display.png"
+display.focus = "tex_cp_display_focus.png"
+go_to.normal = "tex_cp_jump.png"
+go_to.focus = "tex_cp_jump_focus.png"
+menu.normal = "tex_cp_menu.png"
+menu.focus = "tex_cp_menu_focus.png"
+scene_search.normal = "tex_cp_scene_search.png"
+scene_search.focus = "tex_cp_scene_search_focus.png"
+sound.normal = "tex_cp_audio.png"
+sound.focus = "tex_cp_audio_focus.png"
+subtitle.normal = "tex_cp_subtitle.png"
+subtitle.focus = "tex_cp_subtitle_focus.png"
+return.normal = "tex_cp_return.png"
+return.focus = "tex_cp_return_focus.png"
+volume.normal = "tex_cp_volume.png"
+volume.focus = "tex_cp_volume_focus.png"

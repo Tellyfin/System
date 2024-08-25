@@ -1,0 +1,7 @@
+[theme]
+name = "System"
+identifier = "system"
+version = "1.0.0"
+description = "The system icons for Tellyfin. This theme is a reserved name."
+authors = ["ILikeTeaALot"]
+features = []
